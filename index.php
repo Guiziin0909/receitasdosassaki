@@ -15,7 +15,7 @@
 date_default_timezone_set
 ('America/Sao_Paulo');
 
- echo date('h:i:s A');
+echo date('h:i:s A');
  <?php
 ?>
 <a href= "#" class="button">Entre em contato</a>
