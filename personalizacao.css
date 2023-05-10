@@ -18,14 +18,14 @@ p {
 .button {
   background-color: #008080;
   border: none;
-  color: "fff;
+  color: #fff;
   cursor: pointer;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
-  display: inline-block
+  display: inline-block;
   font-size: 16px;
-  border-radius: 5px
+  border-radius: 5px;
   margin-top: 20px;
 }
 
